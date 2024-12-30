@@ -113,3 +113,4 @@ delivery_platform
 │   │   ├── signup.html         # Page d'inscription
 │   │   ├── itinerary.html      # Page principale pour optimiser les routes
 └── README.md                   # Documentation du projet (optionnel)
+Bonne découverte
